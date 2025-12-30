@@ -11,6 +11,7 @@
     "university": "all",
     "whatsapp": 795824279,
     "paymentMethods": [],
+    "views": 0,
     "isVerified": true,
     "isAdminVerified": true
   },
@@ -26,6 +27,7 @@
     "university": "all",
     "whatsapp": "س",
     "paymentMethods": [],
+    "views": 0,
     "isVerified": true,
     "isAdminVerified": false
   },
@@ -41,6 +43,7 @@
     "university": "just",
     "whatsapp": "س",
     "paymentMethods": [],
+    "views": 0,
     "isVerified": true,
     "isAdminVerified": false
   }
