@@ -1,8 +1,8 @@
 [
   {
     "id": "P_1767085035540",
-    "title": "??? ???? ???????? ???? ?????",
-    "description": "??? ???? ????? ?????? ???????????? ?????",
+    "title": "اسم متجر الكتروني مميز للبيع",
+    "description": "اسم متجر جامعة العلوم والتكنولوجيا للبيع",
     "price": 100,
     "category": "other",
     "image": "https://i.ibb.co/3DpfBgY/image.jpg",
@@ -20,9 +20,9 @@
     "category": "other",
     "image": "https://i.ibb.co/3DpfBgY/image.jpg",
     "merchantId": "M_1767000941500",
-    "storeName": "?",
+    "storeName": "س",
     "university": "all",
-    "whatsapp": "?",
+    "whatsapp": "س",
     "isVerified": true
   },
   {
@@ -33,9 +33,9 @@
     "category": "other",
     "image": "https://drive.google.com/file/d/1kbtkNyiaVqktpRnxdS3G7unv2zJO1oqU/view?usp=drivesdk",
     "merchantId": "M_1767000941500",
-    "storeName": "?",
+    "storeName": "س",
     "university": "just",
-    "whatsapp": "?",
+    "whatsapp": "س",
     "isVerified": true
   }
 ]
