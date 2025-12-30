@@ -10,7 +10,8 @@
     "storeName": "Just Store",
     "university": "all",
     "whatsapp": 795824279,
-    "isVerified": true
+    "isVerified": true,
+    "isAdminVerified": false
   },
   {
     "id": "P_1767085035540",
@@ -23,7 +24,8 @@
     "storeName": "Just Store",
     "university": "just",
     "whatsapp": 795824279,
-    "isVerified": true
+    "isVerified": true,
+    "isAdminVerified": false
   },
   {
     "id": "P_1767005276585",
@@ -36,7 +38,8 @@
     "storeName": "س",
     "university": "all",
     "whatsapp": "س",
-    "isVerified": true
+    "isVerified": true,
+    "isAdminVerified": false
   },
   {
     "id": "P_1767002111853",
@@ -49,6 +52,7 @@
     "storeName": "س",
     "university": "just",
     "whatsapp": "س",
-    "isVerified": true
+    "isVerified": true,
+    "isAdminVerified": false
   }
 ]
