@@ -10,6 +10,7 @@
     "storeName": "Just",
     "university": "all",
     "whatsapp": 795824279,
+    "paymentMethods": [],
     "isVerified": true,
     "isAdminVerified": false
   },
@@ -24,6 +25,7 @@
     "storeName": "س",
     "university": "all",
     "whatsapp": "س",
+    "paymentMethods": [],
     "isVerified": true,
     "isAdminVerified": false
   },
@@ -38,6 +40,7 @@
     "storeName": "س",
     "university": "just",
     "whatsapp": "س",
+    "paymentMethods": [],
     "isVerified": true,
     "isAdminVerified": false
   }
