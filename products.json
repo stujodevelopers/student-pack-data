@@ -1,39 +1,5 @@
 [
   {
-    "id": "P_1767266526839",
-    "title": "sss",
-    "description": "sssss",
-    "price": "1",
-    "category": "books",
-    "image": "https://i.ibb.co/s93bd1fS/Gemini-Generated-Image-83xka783xka783xk.png",
-    "merchantId": "M_1767089749042",
-    "storeName": "Just",
-    "university": "all",
-    "whatsapp": "962790000000",
-    "date": "2026-01-01T11:22:08.421676+00:00",
-    "isVerified": true,
-    "isAdminVerified": true,
-    "soldCount": 0,
-    "rating": 4.8
-  },
-  {
-    "id": "P_1767264632377",
-    "title": "سيف زكريا",
-    "description": "لا يوجد",
-    "price": "1",
-    "category": "other",
-    "image": "https://i.ibb.co/6c0t7Fng/fun-student-meme-original-1766223413521.png",
-    "merchantId": "M_1767089749042",
-    "storeName": "Just",
-    "university": "just",
-    "whatsapp": "962790000000",
-    "date": "2026-01-01T10:50:34.43697+00:00",
-    "isVerified": true,
-    "isAdminVerified": true,
-    "soldCount": 0,
-    "rating": 4.8
-  },
-  {
     "id": "P_1767091203203",
     "title": "Mahmoud",
     "description": "All of the above",
@@ -43,45 +9,36 @@
     "merchantId": "M_1767089749042",
     "storeName": "Just",
     "university": "all",
-    "whatsapp": "962790000000",
-    "date": "2025-12-30T10:40:03.203+00:00",
+    "whatsapp": 795824279,
     "isVerified": true,
-    "isAdminVerified": true,
-    "soldCount": 0,
-    "rating": 4.8
+    "isAdminVerified": true
   },
   {
     "id": "P_1767005276585",
     "title": "sssss",
     "description": "naaaaaaaaaa",
-    "price": "23",
+    "price": 23,
     "category": "other",
     "image": "https://i.ibb.co/3DpfBgY/image.jpg",
     "merchantId": "M_1767000941500",
     "storeName": "س",
     "university": "all",
-    "whatsapp": "962790000000",
-    "date": "2025-12-29T10:47:56.585+00:00",
+    "whatsapp": "س",
     "isVerified": true,
-    "isAdminVerified": false,
-    "soldCount": 0,
-    "rating": 4.8
+    "isAdminVerified": false
   },
   {
     "id": "P_1767002111853",
     "title": "s",
     "description": "s",
-    "price": "10",
+    "price": 10,
     "category": "other",
     "image": "https://drive.google.com/file/d/1kbtkNyiaVqktpRnxdS3G7unv2zJO1oqU/view?usp=drivesdk",
     "merchantId": "M_1767000941500",
     "storeName": "س",
     "university": "just",
-    "whatsapp": "962790000000",
-    "date": "2025-12-29T09:55:11.853+00:00",
+    "whatsapp": "س",
     "isVerified": true,
-    "isAdminVerified": false,
-    "soldCount": 0,
-    "rating": 4.8
+    "isAdminVerified": false
   }
 ]
